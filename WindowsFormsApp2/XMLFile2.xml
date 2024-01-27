@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KHACH_SAN Ten="222" Dien_thoai="2222"   Dia_chi="33333“" Muc_giam="7" Ty_le_giam="10">
+	<LOAI_PHONG Ten="Loai A" Don_gia="250000" />
+	<LOAI_PHONG Ten="Loai B" Don_gia="220000" />
+	<LOAI_PHONG Ten="Loai C" Don_gia="180000" />
+	<LOAI_PHONG Ten="Loai dac biet" Don_gia="380000" />
+</KHACH_SAN>

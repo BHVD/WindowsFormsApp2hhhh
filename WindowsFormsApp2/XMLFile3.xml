@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLGV>
+	<sanpham>
+		<Ma>P001</Ma>
+		<Ten>Su tich so dua</Ten>
+		<Mota>Van hoc dan gian </Mota>
+		<gia>88000</gia>
+		<Soluong>34</Soluong>
+	</sanpham>
+	<sanpham>
+		<Ma>P002</Ma>
+		<Ten> Lap trinh c</Ten>
+		<Mota>Tin hoc </Mota>
+		<gia>62000</gia>
+		<Soluong>10</Soluong>
+	</sanpham>
+	<sanpham>
+		<Ma>P003</Ma>
+		<Ten>Nghe thuat dam phan</Ten>
+		<Mota>Truyen ngan </Mota>
+		<gia>48000</gia>
+		<Soluong>20</Soluong>
+	</sanpham>
+
+</QLGV>
